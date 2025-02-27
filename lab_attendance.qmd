@@ -1,0 +1,10 @@
+---
+title: "lab_attendance"
+author: Brittany Bobb
+format: html
+editor: visual
+---
+
+##I have learned how to connect my github to my R Project
+
+##Also, youre killin it queen
